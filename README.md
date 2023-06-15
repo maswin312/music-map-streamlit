@@ -1,3 +1,3 @@
-# Streamlit Games Recommender
-A Simple streamlit app for games recommender
+# Streamlit Music Map Predictor
+A Simple streamlit app for predict user adopter or not adopter 
 
